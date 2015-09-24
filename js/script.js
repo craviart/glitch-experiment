@@ -32,7 +32,7 @@ var set = function(x, opts) {
       x.find("div").eq(i).css({
         backgroundImage: "url(" + img + ")",
         backgroundPosition: "0px " + pos,
-        height: "1px",
+        height: "10px",
         width: _w + "px",
         position: "absolute",
         top: i + "px"
@@ -106,7 +106,7 @@ var set = function(x, opts) {
     _w: 0,
     img: "",
     auto: true,
-    delay: 2
+    delay: 20
   };
 
 })();
