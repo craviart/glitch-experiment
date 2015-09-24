@@ -1,2 +1,2 @@
 # glitch-experiment
-Just playing around witch glitch
+Just playing around with glitch
