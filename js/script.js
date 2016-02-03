@@ -111,7 +111,7 @@ var set = function(x, opts) {
 
 })();
 
-/*to see this same image but with its full background use
+/*to see this same image but with its full background use lol
 https://s3-us-west-2.amazonaws.com/s.cdpn.io/131045/noise.jpe | I removed the black image bordering.
 Or add any other image of your choice - just be sure to edit the width/height params below. It *should* work with any image.
 */
