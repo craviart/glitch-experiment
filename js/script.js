@@ -119,6 +119,6 @@ $(function() {
   $("#img").noisy({
     _w: 360,
     _h: 350,
-    img: "img/glitch.jpg"
+    img: "img/glitch.gif"
   });
 });
